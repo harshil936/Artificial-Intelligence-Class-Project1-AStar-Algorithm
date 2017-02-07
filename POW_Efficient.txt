@@ -1,0 +1,1 @@
+PathCost, 448.265625, Uncovered, 33188, TimeTaken, 462
